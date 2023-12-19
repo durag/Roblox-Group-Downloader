@@ -1,4 +1,4 @@
-# Roblox-Group-Downloader - Working 2023/2024
+# Roblox Group Shop Downloader - Working 2023/2024
 Downloads all Shirts, Pants, and T-Shirts within any group! 
 No, this does not steal your cookie. The beauty of this code is that it's open-source. Inspect it, learn it, and familiarize yourself with it.
 ## Setup
