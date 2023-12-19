@@ -14,7 +14,7 @@ No, this does not steal your cookie. The beauty of this code is that it's open-s
 
 ## Features
   - Auto-downloads a group's entire clothing catalog
-  - aves the exact shirt/pants name, as well as accounting for duplicate titles 
+  - Saves the exact shirt/pants name, as well as accounting for duplicate titles by using number extensions
   - Saves to File titled "clothes"
   - Displays save output by filename
 
